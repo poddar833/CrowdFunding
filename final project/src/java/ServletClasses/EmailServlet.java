@@ -1,6 +1,6 @@
 
 
-/*
+
 package ServletClasses;
 
 import java.io.IOException;
@@ -33,7 +33,7 @@ public class EmailServlet extends HttpServlet {
     public void init(){
         from="poddar833@gmail.com";
         recepient="poddar833@gmail.com";
-        pass ="ABHISHEK8989143101";
+        pass ="**************";
         host ="mail.smtp.gmail";
         
     }
@@ -98,4 +98,3 @@ public class EmailServlet extends HttpServlet {
 
    
 
-*/
