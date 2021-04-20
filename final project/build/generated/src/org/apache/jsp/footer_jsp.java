@@ -10,7 +10,7 @@ public final class footer_jsp extends org.apache.jasper.runtime.HttpJspBase
   private static final JspFactory _jspxFactory = JspFactory.getDefaultFactory();
 
   private static java.util.List<String> _jspx_dependants;
-
+//I hope this change will reflect.
   static {
     _jspx_dependants = new java.util.ArrayList<String>(1);
     _jspx_dependants.add("/header.jsp");
